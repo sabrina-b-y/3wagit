@@ -1,1 +1,1 @@
-document.querySelector"btn".addEventListenner
+document.querySelector("btn").addEventListenner("click", () => { alert("sabrina")})
